@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 /* let mounted = false; */
-let updated = false;
+/* let updated = false; */
 
 const UseEffectHook = () => {
     const [update, setUpdate] = useState(false)
